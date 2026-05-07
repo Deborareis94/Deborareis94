@@ -1,7 +1,10 @@
-# 📊 Débora Reis
-**`Analista de Dados BI`**
+# 📊 Débora Reis | Analista de Dados BI
+> Transformando dados complexos em insights estratégicos para o negócio.
 
-Me chamo Débora Reis e sou estudante de Análise e Desenvolvimento de Sistemas, com foco em análise de dados. Sou apaixonada por tecnologia, dados e aprendizado contínuo. Aqui no GitHub compartilho projetos, estudos e experiências relacionados à análise de dados, Business Intelligence e desenvolvimento de soluções orientadas por dados.
+---
+
+### 🚀 Sobre mim
+Me chamo Débora Reis e sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco total em análise de dados. Sou apaixonada por tecnologia e aprendizado contínuo. Aqui no GitHub, compartilho meus projetos e estudos focados em extração, tratamento e visualização de dados.
 
 ---
 
@@ -79,14 +82,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original
 <br/>
 
 ---
-
 ### 📌 Projetos em Destaque
 
 - 📊 Dashboard Analítico de Vendas Globais
 - 📈 Dashboard de Atendimentos SAC
 - 🗄️ Sistema de Controle de Vendas
-
-
-
-
 
