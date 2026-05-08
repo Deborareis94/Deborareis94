@@ -84,7 +84,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original
 ---
 ### 📌 Projetos em Destaque
 
-- 📊 Dashboard Analítico de Vendas Globais
-- 📈 Dashboard de Atendimentos SAC
+- 📊 Dashboard Analítico de Vendas Globais | Power BI
+- 📈 Dashboard de Atendimentos SAC |Power BI
 - 🗄️ Pipeline de Vendas: Automação Full Stack com APIs & MySQL
 
