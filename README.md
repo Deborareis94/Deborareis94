@@ -86,5 +86,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original
 
 - 📊 Dashboard Analítico de Vendas Globais
 - 📈 Dashboard de Atendimentos SAC
-- 🗄️ Sistema de Controle de Vendas
+- 🗄️ Pipeline de Vendas: Automação Full Stack com APIs & MySQL
 
