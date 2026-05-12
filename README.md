@@ -3,7 +3,7 @@
 
 ---
 
-### 🚀 Sobre mim
+###  Sobre mim
 Me chamo Débora Reis e sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco total em análise de dados. Sou apaixonada por tecnologia e aprendizado contínuo. Aqui no GitHub, compartilho meus projetos e estudos focados em extração, tratamento e visualização de dados.
 
 ---
